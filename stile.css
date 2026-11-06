@@ -1,11 +1,16 @@
 body {
   font-family: Georgia, serif;
   background-color: #ffffff;
-  color: #3a2f1c;
 }
 h1 {
   color: #0b6e4f;
   border-bottom: 3px solid #0b6e4f;
   text-align: center;
   font-size: 350%;
+}
+.titoloCielo {
+  background-color: #709BDF;
+  margin: 0%;
+  color: black;
+  border-bottom: 3px solid black;
 }
